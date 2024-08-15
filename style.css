@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+}
+header{
+    height: 100%;
+    background-color: chartreuse;
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+    padding: 50px;
+    background-image: url("https://avatars.dzeninfra.ru/get-zen_doc/5276333/pub_63bc061edb6c747914d90923_63bc06e823064044f334cf74/scale_1200");
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+main{
+    height: 100%;
+    background-color: rgb(20, 186, 195);
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-size: 100px;
+    display: flex;
+    padding-top: 1%;
+}
+.l{
+    width:50% ;
+    font-size: 20px;
+}
+.r{
+    width:50% ;
+    text-align: center;
+}
+
+footer{
+    height: 100%;
+    background-color: rgb(246, 255, 0);
+    color: rgb(0, 136, 255);
+    text-align: center;
+    font-size: 100px;
+
+}
+.s img{
+    width: 100px; 
+    padding: left 10px; 
+}
+.s{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
